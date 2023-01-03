@@ -28,6 +28,7 @@
 **4. EC2**
 - OS : Amazon Linux 2
 
+  | 구분 | 용도 | Name | CPU | Memory | Disk | Type |
   | --- | --- | --- | --- | --- | --- | --- |
   | Common | Bastion Host | imok-corp-bastion | 2 | 2GiB | 10GiB | t3.small |
   | Dev | Management | imok-corp-dev-management-2a | 2 | 16GiB | 100GiB | r5.large |
